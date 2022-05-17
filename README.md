@@ -23,6 +23,6 @@ Meu foco de desenvolvimento é Web responsivo e no desenvolvimento mobile utiliz
   <br>
 
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorSasaki&show_icons=true&theme=dracula" alt="Igor Sasaki's Github Stats" alt="Igor Sasaki's Github Status" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ISasakii&show_icons=true&theme=dracula" alt="Igor Sasaki's Github Stats" alt="Igor Sasaki's Github Status" />
   </p>
 </details>
